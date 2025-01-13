@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full flex flex-col justify-start items-start gap-10">
+  <div class="w-full flex flex-col justify-start items-start gap-10 bg-white text-gray-800">
     <NavBar />
     <h1 class="text-2xl font-bold mb-4 text-gray-800 text-center w-full">
       Carrinho

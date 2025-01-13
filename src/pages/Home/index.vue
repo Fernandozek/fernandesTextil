@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full min-h-screen flex flex-col justify-start items-start">
+  <div class="w-full min-h-screen flex flex-col justify-start items-start bg-white">
     <NavBar />
     <section class="w-full relative reveal mb-20">
       <span
@@ -33,7 +33,7 @@
         <h2 class="text-3xl font-bold mb-8 text-primary">
           Por que escolher a Fábrica Fernandes?
         </h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-gray-800">
           <div class="p-6 bg-white rounded shadow-lg">
             <h3 class="text-xl font-semibold mb-4">Fabricação Própria</h3>
             <p class="text-gray-600">
@@ -57,7 +57,7 @@
     </section>
 
     <!-- Depoimentos de Clientes -->
-    <section class="w-full py-16 bg-white px-4">
+    <section class="w-full py-16 bg-white px-4 text-gray-800">
       <div class="max-w-7xl mx-auto text-center">
         <h2 class="text-3xl font-bold mb-8 text-primary">
           O que nossos clientes dizem

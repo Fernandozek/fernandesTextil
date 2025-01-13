@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col items-start justify-start gap-10 w-full min-h-screen"
+    class="flex flex-col items-start justify-start gap-10 w-full min-h-screen bg-white text-gray-800"
   >
     <NavBar />
     <!-- Info Empresa -->
