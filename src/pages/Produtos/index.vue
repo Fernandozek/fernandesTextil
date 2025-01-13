@@ -274,11 +274,11 @@ const list = ref([
     `,
     categoria: ["Manta"],
     images: [
-      "/src/assets/images/MantaTijolinho/image1.png",
-      "/src/assets/images/MantaTijolinho/image2.png",
-      "/src/assets/images/MantaTijolinho/image3.png",
-      "/src/assets/images/MantaTijolinho/image4.png",
-      "/src/assets/images/MantaTijolinho/image5.png",
+      "/images/MantaTijolinho/image1.png",
+      "/images/MantaTijolinho/image2.png",
+      "/images/MantaTijolinho/image3.png",
+      "/images/MantaTijolinho/image4.png",
+      "/images/MantaTijolinho/image5.png",
     ],
   },
   {
@@ -293,10 +293,10 @@ const list = ref([
     `,
     categoria: ["Tapete"],
     images: [
-      "/src/assets/images/tapete/image1.png",
-      "/src/assets/images/tapete/image2.png",
-      "/src/assets/images/tapete/image3.png",
-      "/src/assets/images/tapete/image4.png",
+      "/images/tapete/image1.png",
+      "/images/tapete/image2.png",
+      "/images/tapete/image3.png",
+      "/images/tapete/image4.png",
     ],
   },
   {
@@ -309,10 +309,10 @@ const list = ref([
     `,
     categoria: ["Manta"],
     images: [
-      "/src/assets/images/mantaLisa/image1.png",
-      "/src/assets/images/mantaLisa/image2.png",
-      "/src/assets/images/mantaLisa/image3.png",
-      "/src/assets/images/mantaLisa/image4.png",
+      "/images/mantaLisa/image1.png",
+      "/images/mantaLisa/image2.png",
+      "/images/mantaLisa/image3.png",
+      "/images/mantaLisa/image4.png",
     ],
   },
 ]);
